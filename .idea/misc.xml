@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/activity_result_kbdi.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/activity_used_in_activity.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/activity_used_in_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/card_list_drought_index.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/card_list_drought_index_item.xml" value="0.18" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/filter_sheet_component.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/fragment_used_in_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/home_fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/layout/list_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/USER/Documents/Alarm-KBDI-main/app/src/main/res/menu/bottom_nav.xml" value="0.22447916666666667" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/drawable/ic_home_foreground.xml" value="0.1855" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/activity_result_kbdi.xml" value="0.23802083333333332" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/activity_used_in_activity.xml" value="0.23802083333333332" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/activity_used_in_fragment.xml" value="0.23802083333333332" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/card_list_drought_index.xml" value="0.264" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/filter_sheet_component.xml" value="0.14285714285714285" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/fragment_used_in_fragment.xml" value="0.15555555555555556" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/layout/home_fragment.xml" value="0.2" />
+        <entry key="..\:/kerja/proyek/Alarm-KBDI/app/src/main/res/menu/bottom_nav.xml" value="0.15555555555555556" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

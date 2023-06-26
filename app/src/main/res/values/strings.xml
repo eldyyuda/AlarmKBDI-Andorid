@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AlarmTest</string>
+    <string name="vegetasi">Vegetasi</string>
+    <string name="masukan_suhu_maksimal">Suhu Maksimal</string>
+    <string name="curah_hujan">Curah Hujan</string>
+    <string name="internal_storage">Intenal Storage</string>
+    <string name="used_in_fragment">Used in Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="used_in_activity">used_in_activity</string>
+    <string name="indeks_kekeringan">Indeks Kekeringan</string>
+    <string name="hitung">Hitung</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="drought_index">Indeks Kekeringan</string>
+    <string name="fab_question_desc">keterangan</string>
+    <string name="description">Keterangan</string>
+</resources>
